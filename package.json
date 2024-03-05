@@ -1,6 +1,6 @@
 {
   "name": "notion-upd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "notion",
   "main": "index.js",
   "scripts": {
